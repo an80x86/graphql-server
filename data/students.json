@@ -1,0 +1,212 @@
+[
+  {
+    "id": "S1001",
+    "firstName": "Mohtashim",
+    "lastName": "Mohammad",
+    "email": "mohtashim.mohammad@tutorialpoint.org",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1002",
+    "email": "kannan.sudhakaran@tutorialpoint.org",
+    "firstName": "Kannan",
+    "lastName": "Sudhakaran",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S1003",
+    "email": "kiran.panigrahi@tutorialpoint.org",
+    "firstName": "Kiran",
+    "lastName": "Panigrahi",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "Bkra5OC7w",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "rkLp5dRXw",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "ryDpcuA7D",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "Hklwa5dCXD",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "rybDp5uA7w",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "HkMPp5_RQP",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "HkXPp9_RQv",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "HkEPp5O0QD",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "r1Swa9_0Xw",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "S1up9dC7P",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "S1ldp9_A7P",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "BkZu69uC7v",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "rkfup9dCXP",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "HyXOT9uAQw",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "ByYTqdCmw",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "S1eK65uA7D",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "r1joadAQw",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "ry6opdAQP",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "By0sau0mw",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "SklAoau0mw",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "SybRj6u0XD",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "HJzCja_07D",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "SymCopOAXv",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "HJyhpuAmw",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "ryly26uCQv",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "Sk-ynpdRQP",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "B1zynTuRmP",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "S1Q136OAQw",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "Bk4ynTuA7v",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "ryH12auCmP",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "Bye26_07v",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  }
+]
